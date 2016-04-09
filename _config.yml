@@ -1,6 +1,6 @@
 name: MaxExSportsGRID
 favicon: null
-layout_spectrum: 0.1784053526353091
+layout_spectrum: 1
 typography_spectrum: 0.39489696943201125
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.7751881298609078
+  brandStrength: 0.5
   lightness: 0.5499762753024697
   saturation: 0.21805427712388337
   rhythmicContrast: 0.5584791090805084
